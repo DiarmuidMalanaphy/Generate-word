@@ -1,4 +1,4 @@
-# Make-a-joke
+# Generate word
 This was originally designed and implemented over the summer of 2022, however as it was created over a short period in a game jam type environment and I was learning as I went I carelessly didn't create a github repository for it. This means I don't have a commit history and everything will be one large commit.
 
 There is a reocurring issue of lack of commentation. I hope to go back to this project at a later stage to fix up the code, however it's unlikely.
